@@ -22,7 +22,7 @@
 
 ### 2. Interview structures
 
-- Interview 1 (Music Discovery Problem) — [Interview 1.txt](Interview%201.txt)
+- Interview 1 (Music Discovery Problem) — [Interview 1.txt](Interviews/Interview%201.txt)
 - Interview 2 — [link]
 - Interview 3 — [link]
 - Interview 4 — [link]
@@ -31,7 +31,7 @@
 
 ### 3. Situations (What–How–Why)
 
-- Interview 1 — 4 situations: [Interview 1 Situations.md](Interview%201%20Situations.md)
+- Interview 1 — 4 situations: [Interview 1 Situations.md](Interviews%20Situations/Interview%201%20Situations.md)
 - Interview 2 — 4 situations: [link]
 - Interview 3 — 4 situations: [link]
 - Interview 4 — 4 situations: [link]
