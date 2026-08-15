@@ -1,0 +1,90 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 .AppleSystemUIFontMonospaced-Regular;}
+{\colortbl;\red255\green255\blue255;\red249\green249\blue249;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c98039\c98039\c98039;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs18 \cf0 \cb2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Transcription: \
+Name: ScreenTime_Interview1.m4a\
+URL: https://www.happyscribe.com/transcriptions/e05b47b5dcbc4f6a917db286bc85474b/edit\
+File type: upload\
+Status: automatic_done\
+Language: es-CO\
+Duration: 282.005333s\
+Created: 2026-08-14T21:11:07-05:00\
+\
+Speakers: Hablante 1, Hablante 2\
+Paragraphs: 33\
+Words: 697\
+\
+START CONTENT:\
+[Hablante 1] (0.44s)Buenos d\'edas, Santiago, \'bfc\'f3mo est\'e1s?\
+\
+[Hablante 2] (3.40s)Muy buenos d\'edas, muy bien.\
+\
+[Hablante 1] (5.90s)El objetivo de la entrevista es comprender un poco los (8.84s) h\'e1bitos de uso de los dispositivos electr\'f3nicos que tengas, las (12.90s) percepciones que tengas de tu tiempo en pantalla y estrategias (16.22s) que uses para controlarlo, y tambi\'e9n c\'f3mo barreras o motivaciones (20.90s) que influyan en tu capacidad para reducirlo.\
+\
+[Hablante 2] (23.76s)Est\'e1 bien.\
+\
+[Hablante 1] (24.36s)Listo, entonces para comenzar cu\'e9ntame c\'f3mo utilizas normalmente tu celular (28.16s) durante un d\'eda en la universidad.\
+\
+[Hablante 2] (30.05s)Antes de continuar, me gustar\'eda saber si la entrevista va (32.55s) a ser grabada y qu\'e9 uso se le va a (34.07s) dar.\
+\
+[Hablante 1] (34.09s)S\'ed, total, la entrevista va a ser grabada, si te (36.25s) parece.\
+\
+[Hablante 2] (38.07s)Ok, estoy de acuerdo con eso.\
+\
+[Hablante 1] (40.55s)Listo, entonces cu\'e9ntame c\'f3mo utilizas normalmente tu celular durante un (43.83s) d\'eda de universidad.\
+\
+[Hablante 2] (45.85s)Durante un d\'eda de universidad, durante las clases, a veces (48.39s) cuando uno se distrae reviso notificaciones, hablar con amigos, WhatsApp, (52.99s) y entre los huecos a veces mirar videos como Reels (55.69s) o TikToks responder como mensajes de amigos. Es el uso (60.39s) general, pero pues obviamente tambi\'e9n depende de las clases. Entre (62.99s) m\'e1s motivadoras son, el tema est\'e9 mejor, pues uno se (65.91s) concentra m\'e1s.\
+\
+[Hablante 1] (67.53s)\'bfEn qu\'e9 momentos del d\'eda sientes que utilizas m\'e1s el (69.75s) celular?\
+\
+[Hablante 2] (71.31s)Cuando estoy solo, despachado, como que sin nada que hacer, (75.03s) como para quemar ese tiempo entre clases, o pues cuando (78.65s) me voy a la casa y ya el d\'eda ha terminado.\
+\
+[Hablante 1] (81.83s)Okay. Entonces, \'bfqu\'e9 aplicaciones utilizas m\'e1s en esos espacios?\
+\
+[Hablante 2] (87.97s)TikTok, Instagram, creo que son las principales.\
+\
+[Hablante 1] (93.15s)Okay. \'bfY qu\'e9 consecuencias, si tienes alguna, has notado por (97.81s) pasar mucho tiempo en el celular?\
+\
+[Hablante 2] (100.84s)Cansancio es lo siguiente, dado que uno se distrae mucho (103.90s) de eso, entonces como que las horas de sue\'f1o se (105.47s) alargan o el tiempo de pantalla en ese momento pues (108.93s) afecta. Del d\'eda de madrugada al d\'eda siguiente, o pues (112.69s) la procrastinaci\'f3n, no usar el celular cuando tienes pendientes.\
+\
+[Hablante 1] (117.35s)\'bfAlguna vez has intentado reducir tu tiempo de pantalla?\
+\
+[Hablante 2] (121.31s)S\'ed, la verdad s\'ed, justamente pues en el tel\'e9fono es (125.03s) un iPhone, entonces permite instalarle, configurarle tiempo de pantalla.\
+\
+[Hablante 1] (131.79s)Ok, \'bfy eso qu\'e9 tan bien te funcion\'f3?\
+\
+[Hablante 2] (134.85s)No tanto, dado que pues yo tengo la contrase\'f1a, bueno, (137.53s) la configuraci\'f3n, entonces puedo salt\'e1rmelo, entonces funciona m\'e1s como un (139.65s) recordatorio de evitarlo, pero no, realmente no es un efecto (144.76s) real porque puedo salt\'e1rmelo.\
+\
+[Hablante 1] (148.04s)Okay, \'bfy qu\'e9 tendr\'eda entonces que pasar para que t\'fa (152.05s) respetaras ese l\'edmite?\
+\
+[Hablante 2] (154.49s)Que no pudiera yo quitar el tiempo de pantalla, que (157.11s) no conociera la contrase\'f1a o que fuera m\'e1s estricto en (160.82s) eso.\
+\
+[Hablante 1] (162.57s)\'bfPero eso ser\'eda motivaci\'f3n suficiente o qu\'e9 otra cosa te (165.57s) motivar\'eda a reducir tu tiempo de pantalla?\
+\
+[Hablante 2] (169.52s)Pues la verdad normalmente reduzco mi tiempo en pantalla cuando (172.73s) comparto con amigos, almuerzo con m\'e1s personas, o salgo a (176.37s) citas con mi novia. Esas ser\'edan las razones por las cuales mi tiempo (179.31s) en pantalla suele bajar.\
+\
+[Hablante 1] (183.47s)Ok, veo. Es que con mi grupo de m\'f3viles estamos (187.67s) explorando una aplicaci\'f3n en la que pues se te ayude (192.33s) a manejar el tiempo de pantalla. Puede ser mediante una (195.87s) planta, un animal, un Tamagotchi virtual. Entonces, dependiendo de cu\'e1nto (199.60s) tiempo pases en determinadas aplicaciones o pases sus l\'edmites, la (202.66s) planta podr\'eda deteriorarse. Entonces, si mantienes h\'e1bitos saludables, se mantiene (207.08s) saludable. Y pues no ser\'eda solo un aspecto individual, sino (210.38s) que se ampliar\'eda en un ambiente compartido. Entonces, como para (214.28s) que puedas ver las plantas o el progreso de tus (217.01s) amigos, bien sea colaborativo o en competencia, para que puedas (222.52s) lograr tus metas. En conjunto. \'bfCu\'e1l es tu primera reacci\'f3n (227.12s) frente a esta idea?\
+\
+[Hablante 2] (229.95s)Creo que va a depender mucho de la facilidad con (235.10s) la que pueda acceder a esta, o sea, sin necesidad (237.35s) del primer icono que pueda dar el estado, sino pues (239.93s) se pasar\'eda como una otra de otras aplicaciones que tendr\'eda (243.35s) instaladas, no la ver\'eda ni la utilizar\'eda, y en ese (246.70s) caso depender\'eda de eso.\
+\
+[Hablante 1] (252.23s)OK, esto, \'bft\'fa crees que de alguna forma cambiar\'eda tu (256.29s) comportamiento?\
+\
+[Hablante 2] (259.23s)S\'ed, probablemente s\'ed.\
+\
+[Hablante 1] (261.59s)\'bfY qu\'e9 tendr\'eda que pasar para que la sigas usando (263.84s) despu\'e9s de un mes?\
+\
+[Hablante 2] (266.56s)Que sea f\'e1cil de usar, intuitiva, pues que la vea (268.79s) en el tel\'e9fono y que funcione. Si no funcionar\'eda, pues (271.45s) la cancelar\'eda.\
+\
+[Hablante 1] (274.08s)OK. OK, OK, listo. Muchas gracias.\
+\
+[Hablante 2] (279.00s)Hasta luego.\
+\
+[Hablante 1] (279.73s)Hasta luego.\
+END CONTENT\
+}
